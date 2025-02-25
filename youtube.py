@@ -12,7 +12,7 @@ def download_video(url, save_path):
     except Exception as e:
         print(e)
 
-url = ""
+url = "https://www.youtube.com/watch?v=h5JeD3nezw8"
 save_path = "/Users/leonking/Desktop"
 
 download_video(url, save_path)
