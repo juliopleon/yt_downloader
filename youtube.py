@@ -15,4 +15,4 @@ def download_video(url, save_path):
 url = "https://www.youtube.com/watch?v=h5JeD3nezw8"
 save_path = "/Users/leonking/Desktop"
 
-download_video(url, save_path);
+download_video(url, save_path)
